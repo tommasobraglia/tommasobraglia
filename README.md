@@ -6,10 +6,10 @@
 
 ## 🔥 About Me
 - 🛠 Passionate about **Technology, Investing & Health**
-- 💻 Building cool projects in **Python**, **C++**, 
-- 📈 Analyzing markets, investing strategies & connecting technology to the financial markets
+- 💻 Building cool projects in **Python**, **C++**
 - 🎯 Currently working on **Stealth Mode**
 - 🌱 Learning **how to live a life of purpose**
+- 🏃 Figthing against **Cognitive Biases & the Hedonic treadmill**
 - 🚗 Curious about **Self-driving cars & Autonomous Tech** 
 
 ---
