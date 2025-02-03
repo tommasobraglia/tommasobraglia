@@ -31,9 +31,10 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
