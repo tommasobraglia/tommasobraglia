@@ -48,14 +48,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/tommaso-braglia/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tommasoinvests)
 
-✉️ **Email:** tommybraglia@gmail.com (mailto:tommybraglia@gmail.com)
 ---
-<br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/tommaso-braglia" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-----
