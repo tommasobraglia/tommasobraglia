@@ -21,7 +21,7 @@
 | **Project 2** | [Repo 2](#) | Another cool project you've built |
 | **Project 3** | [Repo 3](#) | Something related to investing? |
 
-🔗 **Explore more on my [GitHub Repos](#)!**
+🔗 **Explore more on my [GitHub Repos](https://github.com/tommasobraglia?tab=repositories)!**
 
 ---
 
