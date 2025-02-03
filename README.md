@@ -13,13 +13,13 @@
 - 🚗 Curious about **Self-driving cars & Autonomous Tech** 
 
 ---
-
+<!--Text
 ## 📌 Featured Projects
 | 🚀 Project Name | 🔗 Repo Link | 📜 Description |
 |---------------|------------|---------------|
 | **In Progress...** | **[Repo Link](https://i.pinimg.com/736x/6c/e8/da/6ce8dad3307644c26bddc34ebf4785f0.jpg)** | In Progress... |
 🔗 **Explore more on my [GitHub Repos](https://github.com/tommasobraglia?tab=repositories)!**
-
+-->
 ---
 
 ## 💡 Tech Stack & Tools
