@@ -27,17 +27,17 @@
 ## GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=frascalise&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tommasobraglia&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frascalise&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommasobraglia&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 </td></tr></table>  
 
 <br/>  
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/frascalise" target="_blank">
+<a href="https://linkedin.com/in/tommaso-braglia" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
