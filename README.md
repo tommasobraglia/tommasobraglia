@@ -1,5 +1,4 @@
-## Hey! I'm Tommaso, CS Student and Investing aficionado
-
+## Hey! 👋
 <br/>  
 
 
