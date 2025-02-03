@@ -17,10 +17,7 @@
 ## 📌 Featured Projects
 | 🚀 Project Name | 🔗 Repo Link | 📜 Description |
 |---------------|------------|---------------|
-| **Project 1** | [Repo 1](#) | Brief description of your project |
-| **Project 2** | [Repo 2](#) | Another cool project you've built |
-| **Project 3** | [Repo 3](#) | Something related to investing? |
-
+| **In Progress...** | [Repo 1](In Progress...) | In Progress... |
 🔗 **Explore more on my [GitHub Repos](https://github.com/tommasobraglia?tab=repositories)!**
 
 ---
