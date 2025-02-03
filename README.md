@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tommasobraglia&show_icons=true&theme=dark)
-
----
-
 ## 🌍 Connect with Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommasobraglia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/tommaso-braglia/)
