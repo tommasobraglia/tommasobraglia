@@ -10,7 +10,7 @@
 - 🎯 Currently working on **Stealth Mode**
 - 🌱 Learning **how to live a life of purpose**
 - 🏃 Figthing against **Cognitive Biases & the Hedonic treadmill**
-- 🚗 Curious about **Self-driving cars & Autonomous Tech** 
+- 🚗 Curious about **Building Products that scale & Autonomous Trading** 
 
 ---
 <!--Text
