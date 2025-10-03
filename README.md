@@ -6,11 +6,14 @@
 
 ## 🔥 About Me
 - 🛠 Passionate about **Technology, Investing & Health**
-- 💻 Building cool projects in **React**, **Python**
+- 💻 Building cool projects in **React**, **Python**, **Ruby on Rails**
 - 🎯 Currently working on **Stealth Mode**
 - 🌱 Learning **how to live a life of purpose**
-- 🏃 Figthing against **Cognitive Biases & the Hedonic treadmill**
-- 🚗 Curious about **Building Products that scale & Autonomous Trading** 
+- 🚗 Figthing against **Cognitive Biases & the Hedonic treadmill**
+- 🏃 Product-minded developer curious about **building solutions that scale and solve real-world problems**
+
+
+
 
 ---
 <!--Text
